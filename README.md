@@ -1,4 +1,4 @@
-# **Enlace a las imagnes  de las capturas de pantalla de la ejecución de los comandos,:**
+# **Enlace a las imagnes  de las capturas de pantalla de la ejecución de los comandos:**
 
 [Images-homework-1-nodejs.com](https://monosnap.com/list/64ea3c217738251bdf793cc0/ "Images-homework-1-nodejs.com")
 
