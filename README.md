@@ -8,7 +8,7 @@
 
 ## **Enlace a la página en vivo:**
 
-[homework-1-nodejs.com](https://edirestrepo.github.io/goit-markup-hw-05/ "homework-1-nodejs.com")
+[homework-1-nodejs.com](https://monosnap.com/list/64ea3c217738251bdf793cc0/ "homework-1-nodejs.com")
 
 ## **Comandos para ejecutar en el terminal:**
 
